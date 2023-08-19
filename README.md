@@ -47,3 +47,5 @@ Before using the script, make sure you have the following:
 ## Usage
 
 1. Run the script by executing the following command in your terminal:
+```bash
+python3 main.py
